@@ -1,2 +1,2 @@
-# Data-Analysis-project
+# EXCEL-Data-Analysis-project
 Data Analysis sample project using excel
